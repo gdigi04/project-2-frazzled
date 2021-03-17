@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#$ -P bf528
+
+#$ -cwd
+
+#$ -j y
+
+#$ -pe mpi_16_tasks_per_node 16
+
+echo "Running job $JOB_ID"
+
+echo "Started: $(date +%F)"
+
+echo "Running in directory: $PWD"
+
+vdb-config --interactive
+
+
+# your commands here
+
+module load fastqc 		#load fastqc module
+
+module load sratoolkit		#load sratoolkit module 
+
+fastq-dump -I --split-files P0_1.sra 		#use fastq-dump from sratoolkit to generate 2 fastq files from SRA paired-end data
+
+echo "Job finished: $(date +%F)"

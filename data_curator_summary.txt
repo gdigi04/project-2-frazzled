@@ -1,0 +1,13 @@
+First step in obtaining the O'Meara et. al., sample was downloading GM1570702, which was a short read file,  onto the SCC using the following 
+	wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos1/sra-pub-run-5/SRR1727914/SRR1727914.1  
+Then I renamed the file to P0_1.sra using
+	mv SRR1727914.1.sra P0_1.sra
+Next, to obtain FASTQ files from the SRA I ran a qsub, called run_extract.qsub (for more detail please review script)
+This qsub contained modules and code required to produce the FASTQ files, including; 
+	module fastqc
+	module sratoolkit
+	fastq-dump -I --split-files P0_1.sra 	which split the sra file into two because this invovles paired end reads 
+
+Once this script was completed we ran the qsub using 
+	qsub run_extract.qsub
+This produced the two FASTQ files, P0_1_1.fastq and P0_1_2.fastq, along with FASTQC reports 	
