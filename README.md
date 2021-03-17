@@ -14,4 +14,4 @@ Marissa Chiaradio (Biologist)
 
 # Repository Contents
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
+biologist_project2.R - R code used to load in data and create several output files including FPKM plots, DAVID tables, and clustered heatmap. 
