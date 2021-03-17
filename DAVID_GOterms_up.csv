@@ -1,0 +1,51 @@
+"","Term","Bonferroni","Benjamini","FDR","match_upreg"
+"1","GO:0005739~mitochondrion","1.32E-47","1.32E-47","1.18E-47","*"
+"2","GO:0044429~mitochondrial part","4.52E-42","2.26E-42","2.02E-42","*"
+"3","GO:0005740~mitochondrial envelope","1.92E-29","4.73E-30","4.23E-30","*"
+"4","GO:0005743~mitochondrial inner membrane","1.95E-29","4.73E-30","4.23E-30","*"
+"5","GO:0031966~mitochondrial membrane","2.37E-29","4.73E-30","4.23E-30","*"
+"6","GO:0019866~organelle inner membrane","1.61E-26","2.68E-27","2.40E-27","*"
+"7","GO:0044455~mitochondrial membrane part","9.50E-24","1.36E-24","1.21E-24",NA
+"8","GO:0098798~mitochondrial protein complex","1.34E-23","1.67E-24","1.50E-24",NA
+"9","GO:1990204~oxidoreductase complex","5.29E-23","5.87E-24","5.25E-24",NA
+"10","GO:0031967~organelle envelope","1.09E-22","1.09E-23","9.71E-24","*"
+"11","GO:0031975~envelope","1.77E-22","1.61E-23","1.44E-23","*"
+"12","GO:0006091~generation of precursor metabolites and energy","3.60E-23","1.80E-23","1.71E-23","*"
+"13","GO:0006082~organic acid metabolic process","3.26E-21","1.09E-21","1.04E-21",NA
+"14","GO:0043436~oxoacid metabolic process","1.45E-20","3.63E-21","3.45E-21",NA
+"15","GO:0019752~carboxylic acid metabolic process","2.67E-20","5.35E-21","5.09E-21",NA
+"16","GO:0098800~inner mitochondrial membrane protein complex","6.61E-19","5.51E-20","4.92E-20",NA
+"17","GO:0070469~respiratory chain","3.84E-18","2.96E-19","2.64E-19","*"
+"18","GO:0015980~energy derivation by oxidation of organic compounds","1.05E-17","1.75E-18","1.67E-18","*"
+"19","GO:0005746~mitochondrial respiratory chain","1.52E-16","1.08E-17","9.67E-18","*"
+"20","GO:0032787~monocarboxylic acid metabolic process","3.16E-16","4.51E-17","4.29E-17",NA
+"21","GO:0098803~respiratory chain complex","1.08E-15","7.19E-17","6.42E-17",NA
+"22","GO:0046128~purine ribonucleoside metabolic process","7.90E-16","9.87E-17","9.40E-17",NA
+"23","GO:0009126~purine nucleoside monophosphate metabolic process","1.34E-15","1.49E-16","1.42E-16",NA
+"24","GO:0042278~purine nucleoside metabolic process","1.56E-15","1.56E-16","1.48E-16",NA
+"25","GO:0051186~cofactor metabolic process","1.83E-15","1.67E-16","1.59E-16","*"
+"26","GO:0046034~ATP metabolic process","4.40E-15","3.67E-16","3.49E-16","*"
+"27","GO:0043230~extracellular organelle","6.07E-15","3.80E-16","3.39E-16",NA
+"28","GO:0009167~purine ribonucleoside monophosphate metabolic process","6.11E-15","4.70E-16","4.47E-16",NA
+"29","GO:0045333~cellular respiration","9.57E-15","6.83E-16","6.51E-16","*"
+"30","GO:1903561~extracellular vesicle","3.40E-14","2.00E-15","1.79E-15",NA
+"31","GO:1901657~glycosyl compound metabolic process","3.61E-14","2.25E-15","2.14E-15",NA
+"32","GO:0009119~ribonucleoside metabolic process","3.81E-14","2.25E-15","2.14E-15",NA
+"33","GO:0055086~nucleobase-containing small molecule metabolic process","3.83E-14","2.25E-15","2.14E-15",NA
+"34","GO:0009123~nucleoside monophosphate metabolic process","4.34E-14","2.41E-15","2.30E-15",NA
+"35","GO:0009161~ribonucleoside monophosphate metabolic process","5.46E-14","2.87E-15","2.73E-15",NA
+"36","GO:0030964~NADH dehydrogenase complex","7.70E-14","3.86E-15","3.45E-15","*"
+"37","GO:0005747~mitochondrial respiratory chain complex I","7.70E-14","3.86E-15","3.45E-15","*"
+"38","GO:0045271~respiratory chain complex I","7.70E-14","3.86E-15","3.45E-15","*"
+"39","GO:0070062~extracellular exosome","1.54E-13","6.46E-15","5.77E-15",NA
+"40","GO:0009205~purine ribonucleoside triphosphate metabolic process","1.47E-13","7.36E-15","7.01E-15","*"
+"41","GO:0009199~ribonucleoside triphosphate metabolic process","7.23E-13","2.47E-14","2.35E-14","*"
+"42","GO:0009116~nucleoside metabolic process","7.23E-13","3.18E-14","3.03E-14",NA
+"43","GO:0009144~purine nucleoside triphosphate metabolic process","7.23E-13","3.20E-14","3.05E-14","*"
+"44","GO:0006753~nucleoside phosphate metabolic process","1.45E-12","6.73E-14","6.41E-14",NA
+"45","GO:0009117~nucleotide metabolic process","2.17E-12","7.28E-14","6.93E-14",NA
+"46","GO:0006732~coenzyme metabolic process","2.17E-12","8.49E-14","8.08E-14","*"
+"47","GO:0072521~purine-containing compound metabolic process","5.06E-12","1.90E-13","1.81E-13",NA
+"48","GO:0019637~organophosphate metabolic process","6.50E-12","2.14E-13","2.04E-13","*"
+"49","GO:0009141~nucleoside triphosphate metabolic process","1.01E-11","3.37E-13","3.21E-13","*"
+"50","GO:0006733~oxidoreduction coenzyme metabolic process","6.79E-11","2.20E-12","2.10E-12","*"

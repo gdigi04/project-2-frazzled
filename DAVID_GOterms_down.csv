@@ -1,0 +1,51 @@
+"","Term","Bonferroni","Benjamini","FDR","match_downreg"
+"1","GO:0007049~cell cycle","2.32E-26","2.32E-26","2.14E-26","*"
+"2","GO:0051301~cell division","9.58E-23","4.79E-23","4.43E-23","*"
+"3","GO:0000278~mitotic cell cycle","1.12E-21","3.75E-22","3.47E-22","*"
+"4","GO:0022402~cell cycle process","2.63E-21","6.57E-22","6.08E-22","*"
+"5","GO:1903047~mitotic cell cycle process","1.75E-20","3.51E-21","3.24E-21",NA
+"6","GO:0051128~regulation of cellular component organization","1.48E-13","2.46E-14","2.28E-14",NA
+"7","GO:0007067~mitotic nuclear division","7.40E-13","1.20E-13","1.11E-13",NA
+"8","GO:0007067~mitotic nuclear division","7.40E-13","1.20E-13","1.11E-13",NA
+"9","GO:0007399~nervous system development","1.48E-12","1.71E-13","1.58E-13",NA
+"10","GO:0000280~nuclear division","4.44E-12","4.57E-13","4.23E-13","*"
+"11","GO:0000280~nuclear division","4.44E-12","4.57E-13","4.23E-13","*"
+"12","GO:0010564~regulation of cell cycle process","5.18E-12","5.04E-13","4.66E-13","*"
+"13","GO:0051726~regulation of cell cycle","1.18E-10","9.78E-12","9.05E-12","*"
+"14","GO:0008283~cell proliferation","1.09E-10","9.78E-12","9.05E-12",NA
+"15","GO:0005694~chromosome","1.06E-11","1.06E-11","9.58E-12","*"
+"16","GO:0048285~organelle fission","1.35E-10","1.04E-11","9.60E-12","*"
+"17","GO:0048285~organelle fission","1.35E-10","1.04E-11","9.60E-12","*"
+"18","GO:0009893~positive regulation of metabolic process","3.88E-10","2.77E-11","2.57E-11",NA
+"19","GO:0022008~neurogenesis","8.82E-10","5.51E-11","5.10E-11",NA
+"20","GO:0010604~positive regulation of macromolecule metabolic process","1.81E-09","1.06E-10","9.86E-11","*"
+"21","GO:0009887~organ morphogenesis","1.95E-09","1.08E-10","1.00E-10",NA
+"22","GO:0048699~generation of neurons","2.12E-09","1.12E-10","1.03E-10",NA
+"23","GO:0030182~neuron differentiation","4.22E-09","2.11E-10","1.95E-10","*"
+"24","GO:0051276~chromosome organization","6.92E-09","3.29E-10","3.05E-10","*"
+"25","GO:0072358~cardiovascular system development","7.89E-09","3.43E-10","3.17E-10",NA
+"26","GO:0072359~circulatory system development","7.89E-09","3.43E-10","3.17E-10",NA
+"27","GO:0007059~chromosome segregation","1.05E-08","4.36E-10","4.03E-10",NA
+"28","GO:0007059~chromosome segregation","1.05E-08","4.36E-10","4.03E-10",NA
+"29","GO:0044427~chromosomal part","1.09E-09","5.45E-10","4.93E-10","*"
+"30","GO:0031325~positive regulation of cellular metabolic process","1.77E-08","7.07E-10","6.55E-10",NA
+"31","GO:0007346~regulation of mitotic cell cycle","3.78E-08","1.45E-09","1.34E-09","*"
+"32","GO:0042127~regulation of cell proliferation","4.50E-08","1.67E-09","1.54E-09",NA
+"33","GO:0060429~epithelium development","4.78E-08","1.71E-09","1.58E-09","*"
+"34","GO:0044770~cell cycle phase transition","5.86E-08","2.02E-09","1.87E-09",NA
+"35","GO:0044770~cell cycle phase transition","5.86E-08","2.02E-09","1.87E-09",NA
+"36","GO:0006259~DNA metabolic process","8.44E-08","2.81E-09","2.60E-09","*"
+"37","GO:0005578~proteinaceous extracellular matrix","8.72E-09","2.91E-09","2.63E-09","*"
+"38","GO:0048729~tissue morphogenesis","1.06E-07","3.43E-09","3.17E-09","*"
+"39","GO:0060284~regulation of cell development","1.40E-07","4.38E-09","4.05E-09","*"
+"40","GO:0060284~regulation of cell development","1.40E-07","4.38E-09","4.05E-09","*"
+"41","GO:0044772~mitotic cell cycle phase transition","2.96E-07","8.70E-09","8.05E-09",NA
+"42","GO:0044772~mitotic cell cycle phase transition","2.96E-07","8.70E-09","8.05E-09",NA
+"43","GO:0022610~biological adhesion","4.40E-07","1.26E-08","1.16E-08","*"
+"44","GO:0000902~cell morphogenesis","4.74E-07","1.32E-08","1.22E-08","*"
+"45","GO:0007155~cell adhesion","5.42E-07","1.46E-08","1.36E-08","*"
+"46","GO:0000904~cell morphogenesis involved in differentiation","5.66E-07","1.49E-08","1.38E-08","*"
+"47","GO:0035295~tube development","6.35E-07","1.63E-08","1.51E-08","*"
+"48","GO:0009891~positive regulation of biosynthetic process","7.78E-07","1.94E-08","1.80E-08","*"
+"49","GO:0009891~positive regulation of biosynthetic process","7.78E-07","1.94E-08","1.80E-08","*"
+"50","GO:0010557~positive regulation of macromolecule biosynthetic process","8.72E-07","2.13E-08","1.97E-08","*"
