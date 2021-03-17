@@ -109,6 +109,36 @@ p + scale_x_discrete("P0                  P4                  P7                
 
 
 
+#7.2 
+
+#open DAVID files, and paper files to compare 
+downreg <- read.csv("/projectnb/bf528/users/frazzled/project_2/downregulated_genes_DAVID.csv",header=T)
+downreg_ref <- read.csv("/projectnb/bf528/users/frazzled/project_2/paper_down_reg.csv",header = T)
+#match up terms in common with an asterick 
+match_downreg <- match(downreg[,2], downreg_ref[,2])
+match_downreg[!is.na(match_downreg)] <- "*"
+downreg <- cbind(downreg, match_downreg)
+#making down regulated table 
+down_table <- downreg[,c(2,11,12,13,14)]
+down_table <- down_table[1:50,]
+write.csv(down_table,"DAVID_GOterms_down.csv")
+
+
+#open DAVID file / paper file 
+upreg <- read.csv("/projectnb/bf528/users/frazzled/project_2/upregulated_genes_DAVID.csv",header=T)
+upreg_ref <- read.csv("/projectnb/bf528/users/frazzled/project_2/paper_up_reg.csv",header = T)
+match_upreg <- match(upreg[,2], upreg_ref[,2])
+match_upreg[!is.na(match_upreg)] <- "*"
+upreg <- cbind(upreg, match_upreg)
+#making up regulated table
+up_table <- upreg[,c(2,11,12,13,14)]
+up_table <- up_table[1:50,]
+write.csv(up_table,"DAVID_GOterms_up.csv")
+
+
+
+
+
 
 
 #Part 3, heatmap:  
