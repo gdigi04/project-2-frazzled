@@ -1,13 +1,16 @@
 # Project Description
 
-A brief description of what this repository is for and what it contains
+A reproduction analysis of the paper: O’Meara et al. Transcriptional Reversion of Cardiac Myocyte Fate During Mammalian Cardiac Regeneration. Circ Res. Feb 2015. PMID: 25477501. 
 
 # Contributors
 
-Giulia Digiovanni (data curator)
-Ledia Gebremedhin (programmer)
-Rebecca Spirgel (analyst)
-Marissa Chiaradio (biologist)
+Giulia Digiovanni (Data Curator)
+
+Ledia Gebremedhin (Programmer)
+
+Rebecca Spirgel (Analyst)
+
+Marissa Chiaradio (Biologist)
 
 # Repository Contents
 
